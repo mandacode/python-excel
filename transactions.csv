@@ -1,0 +1,64 @@
+Transaction ID,Date,Description,Amount,Sender,Recipient
+827463,2024-05-01,Deposit,1000.00,,Krystian
+914567,2024-05-02,Grocery Shopping,-50.00,Krystian,Local Grocery Store
+632198,2024-05-02,ATM Withdrawal,-100.00,Krystian,
+319285,2024-05-03,Utility Bill Payment,-75.00,Krystian,Utility Company
+502167,2024-05-04,Restaurant Dinner,-80.00,Krystian,Restaurant XYZ
+741923,2024-05-05,Salary Deposit,2000.00,,Krystian
+825104,2024-05-06,Online Shopping,-120.00,Krystian,Online Retailer
+398216,2024-05-06,Transfer to Savings,-200.00,Krystian,
+673812,2024-05-07,Coffee Shop,-5.00,Krystian,Coffee House
+219346,2024-05-08,ATM Withdrawal,-60.00,Krystian,
+912673,2024-05-08,Movie Tickets,-30.00,Krystian,Cinema XYZ
+493726,2024-05-09,Gasoline,-40.00,Krystian,Gas Station ABC
+851924,2024-05-10,Gift Purchase,-25.00,Krystian,Online Gift Shop
+743912,2024-05-11,Interest Earned,10.00,,Krystian
+638124,2024-05-12,Restaurant Lunch,-35.00,Krystian,Restaurant ABC
+521046,2024-05-12,Transfer from Savings,150.00,,Krystian
+843109,2024-05-13,Online Subscription,-15.00,Krystian,Subscription Service
+561092,2024-05-14,ATM Withdrawal,-80.00,Krystian,
+912304,2024-05-14,Phone Bill Payment,-50.00,Krystian,Telecom Company
+235674,2024-05-15,Grocery Shopping,-70.00,Krystian,Local Grocery Store
+329145,2024-05-16,Deposit,500.00,,Krystian
+426879,2024-05-17,Restaurant Dinner,-90.00,Krystian,Restaurant XYZ
+561237,2024-05-17,Shopping Mall,-200.00,Krystian,Shopping Mall ABC
+741092,2024-05-18,ATM Withdrawal,-100.00,Krystian,
+631492,2024-05-19,Transfer to Friend,-50.00,Krystian,Friend's Name
+901234,2024-05-20,Online Purchase,-75.00,Krystian,Online Retailer
+823091,2024-05-20,Coffee Shop,-5.00,Krystian,Coffee House
+419203,2024-05-21,ATM Withdrawal,-60.00,Krystian,
+912834,2024-05-22,Bookstore Purchase,-20.00,Krystian,Bookstore XYZ
+291834,2024-05-22,Utility Bill Payment,-80.00,Krystian,Utility Company
+519237,2024-05-23,Restaurant Dinner,-100.00,Krystian,Restaurant ABC
+912384,2024-05-24,Salary Deposit,2000.00,,Krystian
+123879,2024-05-25,Transfer from Savings,150.00,,Krystian
+732918,2024-05-26,Online Shopping,-120.00,Krystian,Online Retailer
+391824,2024-05-26,ATM Withdrawal,-60.00,Krystian,
+521439,2024-05-27,Coffee Shop,-5.00,Krystian,Coffee House
+894231,2024-05-28,ATM Withdrawal,-60.00,Krystian,
+912304,2024-05-28,Bookstore Purchase,-20.00,Krystian,Bookstore XYZ
+519237,2024-05-29,Utility Bill Payment,-80.00,Krystian,Utility Company
+721034,2024-05-30,Restaurant Lunch,-100.00,Krystian,Restaurant ABC
+842130,2024-05-31,Interest Earned,10.00,,Krystian
+491820,2024-05-31,Grocery Shopping,-70.00,Krystian,Local Grocery Store
+129384,2024-06-01,Deposit,1000.00,,Krystian
+491038,2024-06-02,ATM Withdrawal,-50.00,Krystian,
+381920,2024-06-03,Utility Bill Payment,-60.00,Krystian,Utility Company
+918203,2024-06-04,Restaurant Lunch,-70.00,Krystian,Restaurant XYZ
+912394,2024-06-04,Gift Purchase,-40.00,Krystian,Online Gift Shop
+128340,2024-06-05,Salary Deposit,2000.00,,Krystian
+384910,2024-06-06,Online Shopping,-120.00,Krystian,Online Retailer
+128309,2024-06-06,Transfer to Savings,-200.00,Krystian,
+129830,2024-06-07,Coffee Shop,-5.00,Krystian,Coffee House
+491028,2024-06-08,ATM Withdrawal,-60.00,Krystian,
+129840,2024-06-08,Movie Tickets,-30.00,Krystian,Cinema XYZ
+840291,2024-06-09,Gasoline,-40.00,Krystian,Gas Station ABC
+128439,2024-06-10,Gift Purchase,-25.00,Krystian,Online Gift Shop
+123849,2024-06-11,Interest Earned,10.00,,Krystian
+821039,2024-06-12,Restaurant Lunch,-35.00,Krystian,Restaurant ABC
+541290,2024-06-12,Transfer from Savings,150.00,,Krystian
+912384,2024-06-13,Online Subscription,-15.00,Krystian,Subscription Service
+129840,2024-06-14,ATM Withdrawal,-80.00,Krystian,
+725609,2024-06-14,Transfer from John,80.00,John,Krystian
+634810,2024-06-15,Transfer from Emma,120.00,Emma,Krystian
+123491,2024-06-16,Transfer from Liam,200.00,Liam,Krystian
