@@ -1,4 +1,4 @@
-Transaction ID,Date,Description,Amount,Sender,Recipient
+TransactionID,DateTime,Description,Amount,Sender,Recipient
 827463,2024-05-01 17:28:43,Deposit,1000.00,,Krystian
 914567,2024-05-02 20:12:35,Grocery Shopping,-50.00,Krystian,Local Grocery Store
 632198,2024-05-02 13:45:57,ATM Withdrawal,-100.00,Krystian,
