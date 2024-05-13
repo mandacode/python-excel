@@ -1,5 +1,5 @@
-Booking Date,Currency Date,Sender/Recipient,Sender/Recipient Address,Source Account,Target Account,Description,Amount,Currency,Reference Number,Operation Type
-2024-04-01,2024-04-01,John Doe,123 Main St,123456789,987654321,Salary,5000.00,USD,4567890123,Credit
+Booking Date,Settlement Date,Sender/Recipient,Sender/Recipient Address,Source Account,Target Account,Description,Amount,Currency,Reference Number,Operation Type
+2024-04-01,2024-04-01,John Doe,123 Main St,123456789,987654321,Salary,8000.00,USD,4567890123,Credit
 2024-04-01,2024-04-01,Amazon Inc,123 Oak St,456789012,987654321,Online Purchase,-120.00,USD,2345678901,Debit
 2024-04-02,2024-04-02,Jane Smith,456 Elm St,789012345,987654321,Utility Bill Payment,-75.00,USD,3456789012,Debit
 2024-04-03,2024-04-03,Google LLC,789 Pine St,234567890,987654321,Ad Campaign,-80.00,USD,4567890123,Debit
